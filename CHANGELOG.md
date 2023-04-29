@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cocolinfff/MEHW1/compare/v1.1.0...v1.1.1) (2023-04-29)
+
+
+### Bug Fixes
+
+* a test ([df67001](https://github.com/cocolinfff/MEHW1/commit/df670016780a42276b20ce744972ca9490b17626))
+
 ## [1.1.0](https://github.com/cocolinfff/MEHW1/compare/v1.0.0...v1.1.0) (2023-04-29)
 
 
